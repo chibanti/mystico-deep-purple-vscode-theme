@@ -1,6 +1,6 @@
-# Mystico theme
+# Mystico - Deep Purple theme
 
-This is the mystico theme for [Visual Studio Code](http://code.visualstudio.com).
+This is the mystico Deep Purple theme for [Visual Studio Code](http://code.visualstudio.com).
 
 A dark theme for Visual Studio in purple/blue scale.
 
