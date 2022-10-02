@@ -6,6 +6,8 @@ A dark theme for Visual Studio in purple/blue scale.
 
 ![Screenshot](https://raw.githubusercontent.com/chibanti/mystico-deep-purple-vscode-theme/master/images/screenshots/screenshot-1.png)
 
+![Screenshot](https://raw.githubusercontent.com/chibanti/mystico-deep-purple-vscode-theme/master/images/screenshots/screenshot-2.png)
+
 Enjoy!
 
 ## License
