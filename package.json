@@ -2,7 +2,7 @@
   "name": "mystico-deep-purple",
   "displayName": "Mystico - Deep Purple",
   "description": "Mystico - Deep Purple color theme for Visual Studio Code",
-  "version": "0.25.0",
+  "version": "0.26.0",
   "publisher": "Chibantichic",
   "engines": {
     "vscode": "^1.55.0"
